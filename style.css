@@ -28,3 +28,18 @@ nav a:hover {
 .section {
     margin-bottom: 40px;
 }
+
+.welcome {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.welcome-text {
+    flex: 1;
+}
+
+.welcome-photo img {
+    width: 200px;
+    border-radius: 10px;
+}

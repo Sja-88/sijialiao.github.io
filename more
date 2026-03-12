@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Starla</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Starla</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="publications.html">Publications</a>
+<a href="teaching.html">Teaching</a>
+<a href="links.html">Links/Contacts</a>
+<a href="more.html">My Cat</a>
+</nav>
+
+<p>
+This page is dedicated to my cat <b>Starla</b>, who often keeps me company
+during my dissertation writting.
+</p>
+
+<h2>Photo Gallery</h2>
+
+<div class="gallery">
+
+<img src="images/starla1.jpg" width="300">
+<img src="images/starla2.jpg" width="300">
+<img src="images/starla3.jpg" width="300">
+<img src="images/starla4.jpg" width="300">
+
+</div>
+
+</body>
+</html>
